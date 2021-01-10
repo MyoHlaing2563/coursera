@@ -1,0 +1,19 @@
+.navbar-brand{
+	padding: 0px;
+	margin: 0px;
+}
+.navbar-brand h1{
+	margin: 0px;
+	padding: 0px;
+
+}
+.navbar-brand a{
+	text-decoration: none;
+}
+.main-content{
+	margin-left: 60px;
+	margin-right: 60px;
+	background-color: gray;
+	height: 1000px;
+}
+
